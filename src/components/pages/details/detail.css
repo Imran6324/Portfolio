@@ -1,0 +1,9 @@
+ .a{
+     display: flex;
+     justify-content: center;
+     height: 400px;
+     width: 800px;
+     align-items: center;
+     margin-left: 250px;
+     margin-top: 70px;
+ }
